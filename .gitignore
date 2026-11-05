@@ -1,0 +1,5 @@
+# Java build output
+out/
+*.class
+*.log
+.DS_Store
